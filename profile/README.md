@@ -1,14 +1,11 @@
-<p style="text-align:center;"><img src="../img/logo-orange.svg" title="Incentro" height="26px"></p>
-<p style="font-size:36px;text-align:center;">Your partner for<br/><span style="color:#FF5000">awesome digital solutions<br/>.</span></p>
+<p align="center"><img src="../img/logo-orange.svg" title="Incentro" height="52px"></p>
+<h1 align="center">Your partner for<br/><span style="color:#FF5000">awesome digital solutions<br/>.</span></h1>
+<p align="center"><strong>Whatever your ambition</strong></p>
 
-<p style="font-size:18px;text-align:center;">Whatever your ambition</p>
-
-<div style="text-align:center;">
 <video width="320" height="240" controls muted>
   <source src="https://videos.ctfassets.net/8q83c033chii/7ifutnYUXdX3kwAyhfQWT6/419c936e1fbd92266a2aa54f39dd739f/20220104_ThisIsIncentro3_DEF_EN_LQ.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-</div>
 
 
 ## What we do
