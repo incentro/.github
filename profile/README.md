@@ -1,12 +1,7 @@
 <p align="center"><img src="../img/logo-orange.svg" title="Incentro" height="52px"></p>
-<h1 align="center">Your partner for<br/><span style="color:#FF5000">awesome digital solutions<br/>.</span></h1>
+
+<h1 align="center">Your partner for<br/>awesome digital solutions<br/>.</h1>
 <p align="center"><strong>Whatever your ambition</strong></p>
-
-<video width="320" height="240" controls muted>
-  <source src="https://videos.ctfassets.net/8q83c033chii/7ifutnYUXdX3kwAyhfQWT6/419c936e1fbd92266a2aa54f39dd739f/20220104_ThisIsIncentro3_DEF_EN_LQ.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 
 ## What we do
 
@@ -18,6 +13,4 @@ The Incentro team always puts a smile on your (inter)face.
 
 Find out more at [www.incentro.com](https://www.incentro.com/en).
 
-<p style="text-align:center;"><img src="../img/circle-orange.svg" title="Incentro" height="52px"></p>
-
----
+<p align="center"><img src="../img/circle-orange.svg" title="Incentro" height="52px"></p>
