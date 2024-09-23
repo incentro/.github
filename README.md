@@ -1,5 +1,3 @@
-<p style="text-align:center;"><img src="./img/logo-orange.svg" title="Incentro" height="26px"></p>
-<p style="font-size:36px;text-align:center;">Your partner for<br/><span style="color:#FF5000">awesome digital solutions<br/>.</span></p>
-
-<p style="font-size:18px;text-align:center;">Whatever your ambition</p>
-
+<p align="center"><img src="./img/logo-orange.svg" title="Incentro" height="52px"></p>
+<h1 align="center">Your partner for<br/>awesome digital solutions<br/>.</h1>
+<p align="center"><strong>Whatever your ambition</strong></p>
