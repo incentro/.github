@@ -1,7 +1,7 @@
 <p align="center"><img src="../img/logo-orange.svg" title="Incentro" height="52px"></p>
 <p align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="../img/incentro-slogan-dt.svg">
+ <source media="(prefers-color-scheme: 'Dark default')" srcset="../img/incentro-slogan-dt.svg">
 <img src="../img/incentro-slogan-lt.svg" title="Business as unusual" height="26px">
 </picture>
 </p>
