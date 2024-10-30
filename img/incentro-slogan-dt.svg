@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-  <title>Incentro: Business as unusual</title>
-  <defs>
-    <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Poppins');</style>
-    <style type="text/css">text{font-family:Poppins,Sans-serif;font-size:70px;font-weight:bold;fill:#FFFFFF;} .orange{fill:#FE5000;}</style>
-  </defs>
-  <text x="40" y="65">Business as <tspan class="orange">un</tspan>usual</text>
-</svg>

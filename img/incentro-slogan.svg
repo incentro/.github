@@ -4,11 +4,10 @@
   <defs>
     <style type="text/css">
 @import url('https://fonts.googleapis.com/css?family=Poppins');
-text{font-family:Poppins,Sans-serif;font-size:70px;font-weight:bold;}
-.fc{color:#000,fill:#000;}
+text{font-family:Poppins,Sans-serif;font-size:70px;font-weight:normal;fill:#808080;}
 .orange{fill:#FE5000;}
-@media (prefers-color-scheme: dark){.fc{color: #FFF,fill: #FFF;}}
+
     </style>
   </defs>
-  <text class="fc" x="40" y="65">Business as <tspan class="orange">un</tspan>usual</text>
+  <text x="40" y="65">Business as <tspan class="orange">un</tspan>usual</text>
 </svg>
